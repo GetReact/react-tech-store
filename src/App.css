@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans");
 
 :root {
   --primaryColor: #5fb7ea;
@@ -19,7 +19,6 @@
 .text-main {
   color: var(--primaryColor);
 }
-
 body {
   font-family: "Open Sans", sans-serif !important;
   background: var(--mainGrey) !important;
@@ -42,4 +41,7 @@ body {
   text-decoration: none;
   color: var(--primaryColor);
   outline-color: var(--darkGrey);
+}
+.cart-icon {
+  cursor: pointer;
 }

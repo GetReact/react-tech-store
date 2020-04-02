@@ -8,7 +8,7 @@ export default function Contact() {
           <Title title="contact us" />
           <form
             className="mt-5"
-            action="https://formspree.io/aouatef.mareghni@gmail.com"
+            action="https://formspree.io/learncodetutorial@gmail.com"
             method="POST"
           >
             {/* first */}
