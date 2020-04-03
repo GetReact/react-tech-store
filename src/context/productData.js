@@ -190,5 +190,19 @@ export const items = [
       image: { fields: { file: { url: "img/product-12.png" } } },
       freeShipping: true
     }
+  },
+  {
+    sys: { id: 13 },
+
+    fields: {
+      title: "ECRAN SAMSUNG 34 ULTRA LARGE QHD INCURVÉ / BLANC",
+      price: 2519,
+      company: "samsung",
+      description:
+        "Moniteur incurvé haut de gamme 34 Ultra large - Résolution 3440 x 1440 pixels - Luminosité 300 cd/m² - Rapport largeur/hauteur 21:9 - Contraste 3000:1 - Ecran incurvé 1500R - Temps de réponse 4 ms - Angle de vue (H/V): 178° / 178° - 2x HDMI - USB - Dimensions: 808,7 x 516,0 x 309,4 mm - Poids: 7,6 kg - Garantie 1 an",
+      featured: true,
+      image: { fields: { file: { url: "img/product-13.png" } } },
+      freeShipping: true
+    }
   }
 ];
